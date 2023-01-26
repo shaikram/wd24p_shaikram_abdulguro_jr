@@ -1,0 +1,30 @@
+.cardBoxStyle, .cardHeadStyle {
+    background: #cdfcea;
+}
+.currentQueNumber {
+    color: #2b8160;
+    font-size: 6rem;
+}
+.currentQueTitle, .currentQueDesc, .currentQueGreet, .currentCounterHead {
+    color: #2b8160;
+}
+.counterBodyHeader {
+    color: #a29127;
+    font-size: 20px;
+}
+
+.cardNumberStyle {
+    background: #f2edcc;
+}
+.currentCounterNumber {
+    font-size: 6rem;
+    color: #e44d1b;
+}
+.bodyCounterPgph {
+    color: #8b7d22;
+    font-size: 15px;
+}
+.cardTotalDiv {
+    background: #d0e9fa;
+    color: #3074a4;
+}
